@@ -119,21 +119,22 @@ GRAMMAR ANALYSIS:
 For each grammar point found in the learner's sentence:
 
 1. Pattern Recognition:
-   - Identify the grammar pattern used
-   - Reference the relevant Genki chapter
-   - Show how the pattern appears in the sentence
+   - Identify the grammar pattern(s)
+   - Reference Genki chapter number
+   - Show pattern in original sentence
+   - Break down pattern components
 
-2. Pattern Structure:
-   - State the basic pattern from Genki
-   - Explain the pattern's components
-   - Generate 2-3 simple examples using the pattern
-   - Show pattern variations with examples
+2. Pattern Usage:
+   - Basic meaning/function
+   - Common situations
+   - Formality level
+   - Key restrictions
 
 3. Pattern Analysis:
-   - Apply Genki's explanation to analyze the sentence
-   - Show how the pattern functions in this context
-   - Provide similar example sentences
-   - Explain any nuances through examples
+   - How pattern modifies meaning
+   - Nuances added
+   - Similar patterns comparison
+   - Common mistakes to avoid
 
 Chapter 1: Basic Forms
 - です: Polite copula. X です = This is X
@@ -346,7 +347,7 @@ IMPORTANT RULES:
 9. PROVIDE common mistakes
 10. ADD learning strategies
 
-Example Analysis for 盛り上がる:
+Example Compound Verb Analysis for 盛り上がる:
 
 1. Components:
    盛る (moru):
@@ -376,3 +377,34 @@ Example Analysis for 盛り上がる:
    - Indicates current atmosphere
    - Common in event descriptions
    - Casual speech variations
+
+Example Grammar Analysis:
+Given sentence:
+私は昨日図書館で勉強していました。
+(I was studying at the library yesterday)
+
+1. Pattern Recognition:
+   - ている (Chapter 7: States)
+     • Basic: 勉強する → 勉強している
+     • Past form: 勉強していました
+   - で particle (Chapter 3: Basic Particles)
+     • Marks location of action
+
+2. Pattern Usage:
+   - ている: Shows ongoing state/action
+     • Present: 勉強しています
+     • Past: 勉強していました
+     • Casual: 勉強してる
+   - で: Indicates where action occurs
+     • 図書館で = at the library
+
+3. Pattern Analysis:
+   - ている adds continuous aspect
+   - Past tense ていました shows action was ongoing
+   - Polite form appropriate for most situations
+   - Common mistake: *勉強をしていました (を not needed)
+
+Similar examples:
+- 私は今本を読んでいます。(reading now)
+- 友達は家で寝ていました。(was sleeping)
+- 先生は教室で待っています。(is waiting)
