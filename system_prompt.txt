@@ -18,6 +18,11 @@ Particles should only be analyzed in the GRAMMAR ANALYSIS section.
 Regular Words (nouns, verbs, adjectives, adverbs only):
 For each word, provide:
 - Word in Japanese script (excluding particles)
+- Word Type:
+  • For verbs: Godan/Ichidan/Irregular, する verb, etc.
+  • For adjectives: い-adjective/な-adjective
+  • For nouns: Regular noun, verbal noun, adverbial noun, etc.
+  • For adverbs: Regular/と/に/な type
 - Kanji breakdown (if applicable):
   • Individual kanji meanings
   • Common kanji compounds
@@ -354,14 +359,14 @@ ANALYSIS SUMMARY:
 After completing the vocabulary and grammar analysis, provide a concise summary:
 
 1. Vocabulary (NO particles - same rules as VOCABULARY ANALYSIS section):
-   - List each content word with reading and meaning
+   - List each content word with reading, type, and meaning
    - Include only nouns, verbs, adjectives, and adverbs
    - Note any special usages found
    Example for 「私は昨日図書館で勉強していました」:
-   私 (わたし) - I
-   昨日 (きのう) - yesterday
-   図書館 (としょかん) - library
-   勉強 (べんきょう) - study
+   私 (わたし) - regular noun - I
+   昨日 (きのう) - temporal noun - yesterday
+   図書館 (としょかん) - compound noun - library
+   勉強 (べんきょう) - verbal noun (する verb) - study
 
 2. Grammar Points Used:
    - List each pattern with chapter reference
